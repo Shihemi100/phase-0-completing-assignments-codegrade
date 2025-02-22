@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <title>My html document</title>
+        <body>
+            <h3>Marvel movies</h3>
+            <ul>
+                <li>Iron man</li>
+                <li>The Incredible Hulk</li>
+                <li>The Iron Man  2</li>
+                <LI>The Avengers</LI>
+                <LI>Thor</LI>
+                <li>The Incredibles</li>
+            </ul>
+        </body>
